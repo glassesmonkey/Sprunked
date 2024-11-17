@@ -57,7 +57,7 @@ const SprunkiPhase8: NextPage = () => {
             height="100%"
             frameBorder="0"
             allowFullScreen
-            title="Sprunki Phase 8"
+            title="sprunked 8"
             onLoad={() => setIframeLoaded(true)}
             className={iframeLoaded ? 'opacity-100' : 'opacity-0'}
           />

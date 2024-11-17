@@ -1,55 +1,55 @@
 {
   "meta": {
-    "title": "sprunki phase 3 スクラッチ版 | 無料で遊べる人気音楽リズムゲーム",
-    "description": "sprunki phase 3 スクラッチ版を今すぐプレイ！Scratchで作られた無料のsprunki phase 3クローン。プログラミング学習にも最適なスクラッチ版ジオメトリーダッシュで音楽とコーディングの世界を楽しもう！",
-    "siteName": "sprunki phase 3 スクラッチ版 | 無料音楽リズムゲーム",
-    "ogTitle": "sprunki phase 3 スクラッチ版 | Scratchで遊べる無料ゲーム",
-    "twitterTitle": "sprunki phase 3 スクラッチ版 | プログラミング学習にも最適",
-    "ogDescription": "sprunki phase 3 スクラッチ版で音楽とプログラミングを楽しもう！Scratchで作られた無料のsprunki phase 3クローン。"
+    "title": "sprunked 3 スクラッチ版 | 無料で遊べる人気音楽リズムゲーム",
+    "description": "sprunked 3 スクラッチ版を今すぐプレイ！Scratchで作られた無料のsprunked 3クローン。プログラミング学習にも最適なスクラッチ版ジオメトリーダッシュで音楽とコーディングの世界を楽しもう！",
+    "siteName": "sprunked 3 スクラッチ版 | 無料音楽リズムゲーム",
+    "ogTitle": "sprunked 3 スクラッチ版 | Scratchで遊べる無料ゲーム",
+    "twitterTitle": "sprunked 3 スクラッチ版 | プログラミング学習にも最適",
+    "ogDescription": "sprunked 3 スクラッチ版で音楽とプログラミングを楽しもう！Scratchで作られた無料のsprunked 3クローン。"
   },
   "header": {
     "home": "ホーム",
-    "flux11Pro": "sprunki phase 3 スクラッチ",
-    "headerh2": "sprunki phase 3 スクラッチ版"
+    "flux11Pro": "sprunked 3 スクラッチ",
+    "headerh2": "sprunked 3 スクラッチ版"
   },
   "home": {
-    "title": "sprunki phase 3 スクラッチ版で遊ぼう！",
-    "description": "スクラッチで作られたsprunki phase 3を今すぐプレイ！プログラミング学習とゲームが融合した新しい体験。",
+    "title": "sprunked 3 スクラッチ版で遊ぼう！",
+    "description": "スクラッチで作られたsprunked 3を今すぐプレイ！プログラミング学習とゲームが融合した新しい体験。",
     "cta": "スクラッチ版で遊ぶ 🚀"
   },
   "features": {
-    "title": "sprunki phase 3 スクラッチ版の特徴",
+    "title": "sprunked 3 スクラッチ版の特徴",
     "rhythmAdventure": {
       "title": "スクラッチで作られた本格リズムゲーム",
-      "description": "sprunki phase 3 スクラッチ版は、オリジナルの魅力をそのままに、Scratchで再現された無料ゲームです。",
-      "imageAlt": "sprunki phase 3 スクラッチ版のゲームプレイ"
+      "description": "sprunked 3 スクラッチ版は、オリジナルの魅力をそのままに、Scratchで再現された無料ゲームです。",
+      "imageAlt": "sprunked 3 スクラッチ版のゲームプレイ"
     },
     "gameModes": {
       "title": "スクラッチならではの機能",
-      "description": "sprunki phase 3 スクラッチ版では、プログラムの仕組みを学びながらゲームを楽しめます。",
+      "description": "sprunked 3 スクラッチ版では、プログラムの仕組みを学びながらゲームを楽しめます。",
       "imageAlt": "スクラッチ版の特別機能"
     },
     "levelEditor": {
       "title": "スクラッチでレベル作成",
-      "description": "sprunki phase 3 スクラッチ版では、Scratchの機能を使って自分だけのレベルを作れます。",
+      "description": "sprunked 3 スクラッチ版では、Scratchの機能を使って自分だけのレベルを作れます。",
       "imageAlt": "スクラッチ版のレベルエディター"
     },
     "endlessChallenge": {
       "title": "スクラッチ版の無限の可能性",
-      "description": "sprunki phase 3 スクラッチ版では、コミュニティが作成した多様なレベルで遊べます。",
+      "description": "sprunked 3 スクラッチ版では、コミュニティが作成した多様なレベルで遊べます。",
       "imageAlt": "スクラッチ版の無限チャレンジ"
     },
     "characterCustomization": {
       "title": "スクラッチでキャラクターカスタマイズ",
-      "description": "sprunki phase 3 スクラッチ版では、プログラミングでキャラクターをカスタマイズできます。",
+      "description": "sprunked 3 スクラッチ版では、プログラミングでキャラクターをカスタマイズできます。",
       "imageAlt": "スクラッチ版のキャラクターカスタマイズ"
     },
     "mainImage": {
-      "alt": "sprunki phase 3 スクラッチ版のゲームプレイ画面"
+      "alt": "sprunked 3 スクラッチ版のゲームプレイ画面"
     }
   },
   "howToPlay": {
-    "title": "sprunki phase 3 スクラッチ版の遊び方",
+    "title": "sprunked 3 スクラッチ版の遊び方",
     "description": "スクラッチ版の基本から応用まで、詳しく解説します。",
     "basicControls": {
       "title": "スクラッチ版の基本操作",
@@ -73,23 +73,23 @@
     }
   },
   "footer": {
-    "description": "sprunki phase 3 スクラッチ版で、プログラミングとリズムゲームの新しい世界を体験しよう！",
+    "description": "sprunked 3 スクラッチ版で、プログラミングとリズムゲームの新しい世界を体験しよう！",
     "product": "スクラッチ版",
     "features": "機能",
     "partner": "パートナー",
     "followUs": "フォローする",
-    "copyright": "© {{year}} sprunki phase 3 スクラッチ版. All rights reserved.",
+    "copyright": "© {{year}} sprunked 3 スクラッチ版. All rights reserved.",
     "terms": "利用規約",
     "privacy": "プライバシーポリシー",
     "credits": "Scratch版制作"
   },
   "faq": {
-    "mainTitle": "sprunki phase 3 スクラッチ版についてよくある質問",
+    "mainTitle": "sprunked 3 スクラッチ版についてよくある質問",
     "description": "スクラッチ版に関する疑問にお答えします。",
     "question1": "スクラッチ版は難しいですか？",
-    "answer1": "sprunki phase 3 スクラッチ版は、プログラミング初心者でも楽しめるように設計されています。",
+    "answer1": "sprunked 3 スクラッチ版は、プログラミング初心者でも楽しめるように設計されています。",
     "question2": "スクラッチ版は無料ですか？",
-    "answer2": "はい、sprunki phase 3 スクラッチ版は完全無料でプレイできます。",
+    "answer2": "はい、sprunked 3 スクラッチ版は完全無料でプレイできます。",
     "question3": "オフラインでもプレイできますか？",
     "answer3": "スクラッチ版はブラウザで動作するため、インターネット接続が必要です。",
     "question4": "自分でレベルを作れますか？",
@@ -97,7 +97,7 @@
     "question5": "スクラッチ版の更新は？",
     "answer5": "コミュニティによって定期的に新しいレベルや機能が追加されています。",
     "question6": "子供でも遊べますか？",
-    "answer6": "はい、sprunki phase 3 スクラッチ版は教育目的で作られており、子供向けの学習ツールとして最適です。",
+    "answer6": "はい、sprunked 3 スクラッチ版は教育目的で作られており、子供向けの学習ツールとして最適です。",
     "question7": "スクラッチ版の特徴は？",
     "answer7": "プログラミング学習とゲームプレイを組み合わせた独自の体験を提供します。",
     "question8": "スクラッチ版の開発者は？",
@@ -110,14 +110,14 @@
   },
   "testimonials": {
     "title": "スクラッチ版プレイヤーの声",
-    "description": "sprunki phase 3 スクラッチ版を楽しむプレイヤーたちの感想です。",
+    "description": "sprunked 3 スクラッチ版を楽しむプレイヤーたちの感想です。",
     "tanaka": {
       "content": "スクラッチ版でプログラミングの基礎が学べて、ゲームも楽しめて一石二鳥です！",
       "name": "田中さん",
       "role": "プログラミング初学者"
     },
     "sato": {
-      "content": "sprunki phase 3 スクラッチ版で子供がプログラミングに興味を持ち始めました。",
+      "content": "sprunked 3 スクラッチ版で子供がプログラミングに興味を持ち始めました。",
       "name": "佐藤さん",
       "role": "保護者"
     },
@@ -127,7 +127,7 @@
       "role": "学生"
     },
     "suzuki": {
-      "content": "sprunki phase 3 スクラッチ版は、プログラミングの勉強にぴったりです。",
+      "content": "sprunked 3 スクラッチ版は、プログラミングの勉強にぴったりです。",
       "name": "鈴木くん",
       "role": "小学生"
     },
@@ -138,7 +138,7 @@
     }
   },
   "gameTips": {
-    "title": "sprunki phase 3 スクラッチ版攻略のコツ",
+    "title": "sprunked 3 スクラッチ版攻略のコツ",
     "description": "スクラッチ版をより楽しむためのヒントをご紹介します。",
     "rhythm": {
       "title": "リズムとプログラミング",
@@ -162,11 +162,11 @@
     }
   },
   "gameGuide": {
-    "title": "sprunki phase 3 スクラッチ版入門ガイド",
+    "title": "sprunked 3 スクラッチ版入門ガイド",
     "description": "スクラッチ版の基本から応用まで、詳しく解説します。",
     "basics": {
       "title": "スクラッチ版の基本",
-      "description": "sprunki phase 3 スクラッチ版の基礎を学びましょう。",
+      "description": "sprunked 3 スクラッチ版の基礎を学びましょう。",
       "items": [
         "スクラッチの基本操作を理解する",
         "音楽とプログラミングの関係を学ぶ",

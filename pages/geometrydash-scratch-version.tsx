@@ -90,7 +90,7 @@ const Home: NextPage = () => {
             ],
             "publisher": {
               "@type": "Organization",
-              "name": "sprunki phase 3 JP"
+              "name": "sprunked 3 JP"
             },
             "datePublished": "2024-01-01",
             "inLanguage": ["ja"],
@@ -127,7 +127,7 @@ const Home: NextPage = () => {
             "dateModified": "2024-10-28",
             "publisher": {
               "@type": "Organization",
-              "name": "sprunki phase 3 JP"
+              "name": "sprunked 3 JP"
             },
             "inLanguage": "ja",
             "mainEntity": [
@@ -314,7 +314,7 @@ const Home: NextPage = () => {
             <div className="bg-white rounded-lg p-4 shadow-sm">
               <h4 className="font-semibold text-lg text-indigo-600 mb-2">ゲームのヒント</h4>
               <ul className="list-disc list-inside space-y-2 text-gray-700">
-                <li>scratch版のsprunki phase 3だけではなく原作も遊んでみてください!!
+                <li>scratch版のsprunked 3だけではなく原作も遊んでみてください!!
                 </li>
                 <li>～アップデート速報欄～</li>
                 <li>2020/06/13:共有

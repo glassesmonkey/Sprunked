@@ -1,422 +1,261 @@
-{"header": {
-  "headerh2": "Sprunki Phase",
-  "home": "Home"
-},
+{
   "meta": {
-    "title": "Sprunki Phase | Free Online Incredibox Sprunki ALL PHASE MOD",
-    "description": "Play Sprunki Phase, a series of 10 amazing games combining music, adventure, and creativity! From making beats to exploring magical worlds, there's fun for everyone. No download needed!",
-    "ogDescription": "Discover Sprunki Phase - 10 unique games where music meets adventure! Create songs, explore worlds, and have fun with friends. Play free online now!",
-    "ogTitle": "Sprunki Phase - Free Online Music Adventure Games",
-    "twitterTitle": "Sprunki Phase - Free Online Music Adventure Games",
-    "siteName": "sprunkiphase.club"
+    "title": "Sprunked - Create Music Through Interactive Characters | Fun Music Creation Game",
+    "description": "Play Sprunked, the unique music creation game where characters come alive with sound! Create amazing music through interactive gameplay. Try both classic Sprunked and the thrilling Sprunked 2.0!"
+  },
+  "introduction": {
+    "title": "Welcome to Sprunked!",
+    "description": "Discover the magic of music creation with Sprunked! Our unique game lets you bring music to life through interactive characters. Each character creates different sounds, and you can mix them to make awesome tunes. Perfect for music lovers of all ages!",
+    "highlights": [
+      "Create music with fun characters",
+      "Easy drag-and-drop controls",
+      "Mix different sounds and beats",
+      "Share your music with friends",
+      "Try the spooky Sprunked 2.0",
+      "Perfect for beginners and pros"
+    ]
+  },
+  "game": {
+    "clickToPlay": "Ready to Make Some Music?",
+    "playNow": "Start Playing!",
+    "loading": "Loading Your Musical Adventure..."
   },
   "features": {
-    "title": "Discover the Sprunki Phase Series",
-    "gameplay": {
-      "title": "Fun Gameplay",
-      "description": "Jump into exciting adventures across different phases! Each game brings new ways to play and have fun."
+    "title": "Explore the Magic of Sprunked",
+    "mainImage": {
+      "alt": "Sprunked game features showcase"
     },
     "music": {
-      "title": "Amazing Music",
-      "description": "Create cool tunes and mix beats in our music-focused phases. Turn your ideas into awesome songs!"
+      "title": "Musical Creation",
+      "description": "Create amazing tunes by mixing different character sounds. Each combination brings new musical possibilities!"
+    },
+    "gameplay": {
+      "title": "Fun & Easy Controls",
+      "description": "Simple drag-and-drop controls make music creation fun and accessible for everyone"
     },
     "characters": {
-      "title": "Cool Characters",
-      "description": "Meet unique characters in each phase. From funny to spooky, there's someone for everyone!"
-    },
-    "evolution": {
-      "title": "Growing Story",
-      "description": "Watch how the Sprunki world grows bigger with each phase. New surprises await in every game!"
+      "title": "Unique Characters",
+      "description": "Meet our lovable characters, each bringing their own special sounds and musical talents"
     },
     "community": {
-      "title": "Join Friends",
-      "description": "Play with others who love Sprunki Phase games. Share tips, make friends, and have fun together!"
+      "title": "Share & Connect",
+      "description": "Join our community to share your musical creations and discover what others are making"
     },
-    "mainImage": {
-      "alt": "Sprunki Phase Series - A World of Fun and Adventure"
+    "sprunked2": {
+      "title": "Sprunked 2.0",
+      "description": "Ready for a thrill? Try Sprunked 2.0 for an exciting mix of music and adventure in a spooky setting"
     }
   },
   "howItWorks": {
-    "title": "How to Play Sprunki Phase Games",
-    "description": "Ready to start your Sprunki Phase adventure? Here's how to play! These simple steps work for all Sprunki Phase games, so you can jump right in and have fun!",
+    "title": "How to Play Sprunked",
+    "description": "Creating music in Sprunked is fun and easy! Follow these simple steps to start your musical journey.",
     "step1": {
-      "title": "Pick Your Game",
-      "description": "Choose any Sprunki Phase game you like! Each one has its own fun style - from music making to spooky adventures!"
+      "title": "Choose Your Characters",
+      "description": "Pick from our collection of musical characters. Each one makes unique sounds that you can mix together!"
     },
     "step2": {
-      "title": "Use Your Mouse",
-      "description": "Click and drag things on the screen with your mouse. Move characters, press buttons, and create cool stuff!"
+      "title": "Drag & Drop",
+      "description": "Simply drag characters onto the music board. Place them anywhere you like to start creating your tune."
     },
     "step3": {
-      "title": "Special Keys",
-      "description": "Use your keyboard for extra moves! Space bar to start/stop, arrow keys to move, and number keys for quick actions."
+      "title": "Mix & Match",
+      "description": "Try different combinations of characters. Use keyboard shortcuts to add special effects to your music."
     },
     "step4": {
-      "title": "Have Fun!",
-      "description": "Try different things, make mistakes, and discover cool secrets! Every Sprunki Phase game has fun surprises to find."
-    },
-    "controls": {
-      "title": "Game Controls",
-      "basic": {
-        "title": "Basic Controls",
-        "items": [
-          "Click: Select things",
-          "Drag: Move things around",
-          "Space: Start/Stop",
-          "Arrows: Move around"
-        ]
-      },
-      "advanced": {
-        "title": "Cool Tricks",
-        "items": [
-          "Double Click: Special actions",
-          "Hold and Drag: Make patterns",
-          "Number Keys (1-9): Quick select",
-          "ESC: Pause game"
-        ]
-      }
-    },
-    "tips": {
-      "title": "Helpful Tips",
-      "list": [
-        "Try all the buttons - you might find something cool!",
-        "Mix different sounds to make awesome music",
-        "Play with friends to discover more fun stuff",
-        "Don't worry about making mistakes - that's part of the fun!"
-      ]
+      "title": "Share & Enjoy",
+      "description": "Happy with your creation? Save it and share it with friends! Try Sprunked 2.0 for an extra spooky challenge."
     }
   },
   "gameTips": {
-    "title": "Fun Tips for Sprunki Phase Games",
-    "description": "Want to have more fun with Sprunki Phase? Here are some cool tips and tricks to help you enjoy every game in the series!",
+    "title": "Tips & Tricks for Sprunked",
+    "description": "Master the art of musical creation with these helpful tips for both Sprunked and Sprunked 2.0!",
     "basics": {
       "title": "Getting Started",
-      "description": "New to Sprunki Phase? Start with the easier games like Phase 1 or 2. Take your time to learn the controls and have fun exploring!"
+      "description": "Start with simple character combinations. Try placing two characters close together and listen to how their sounds blend. This will help you understand the basics of music creation in Sprunked."
     },
-    "progress": {
-      "title": "Level Up",
-      "description": "Try different Sprunki Phase games to find your favorite! Each phase has its own special style - from music to adventures!"
+    "rhythm": {
+      "title": "Finding Your Rhythm",
+      "description": "Pay attention to the rhythm of each character. Some characters create beats while others add melodies. Mix them together to create catchy tunes!"
     },
-    "special": {
-      "title": "Cool Moves",
-      "description": "Look for special powers and abilities in each Sprunki Phase game. Try mixing different actions to discover fun surprises!"
+    "combinations": {
+      "title": "Magic Combinations",
+      "description": "Experiment with different character placements. Some special combinations can unlock hidden sounds and effects that will make your music even more amazing!"
     },
-    "multiplayer": {
-      "title": "Play Together",
-      "description": "Many Sprunki Phase games are more fun with friends! Team up, share tips, and help each other unlock new stuff!"
+    "sharing": {
+      "title": "Community Tips",
+      "description": "Share your creations and check out what others are making. You can learn new techniques and get inspired by the Sprunked community."
     },
-    "secrets": {
-      "title": "Find Secrets",
-      "description": "Every Sprunki Phase game has hidden treasures to find! Click around, try new things, and see what cool stuff you can discover!"
-    },
-    "extraTips": {
-      "title": "More Fun Tips",
-      "list": [
-        "Take breaks between games to stay fresh",
-        "Try all the different Sprunki Phase games",
-        "Share your favorite moments with friends",
-        "Don't forget to save your progress",
-        "Have fun and be creative!"
-      ]
+    "advanced": {
+      "title": "Advanced Moves",
+      "description": "Ready for Sprunked 2.0? Use keyboard shortcuts for quick actions, and keep an eye out for special events that can enhance your musical adventure!"
     }
   },
   "faq": {
-    "mainTitle": "Sprunki Phase FAQ - Your Questions Answered!",
-    "description": "Got questions about Sprunki Phase games? We've got fun answers! Here's everything you need to know about our awesome game series!",
+    "mainTitle": "Frequently Asked Questions",
+    "description": "Got questions about Sprunked? We've got answers! Here are some common questions about our musical adventure.",
     "whatIs": {
-      "question": "What is Sprunki Phase?",
-      "answer": "Sprunki Phase is a super fun series of games that everyone can enjoy! We have 10 different phases, each with its own special style. Some are about making music, others are about adventures, and some are even a bit spooky! It's like having 10 different games in one big family!"
+      "question": "What is Sprunked?",
+      "answer": "Sprunked is a fun and creative music-making game where you use cute characters to create amazing tunes! Each character makes unique sounds, and you can mix them together to make your own music. It's perfect for both beginners and music lovers!"
     },
-    "howToStart": {
-      "question": "How do I start playing Sprunki Phase?",
-      "answer": "It's super easy! Just pick any Sprunki Phase game you like - they're all fun to play! You can start with Phase 1 if you're new, or jump into any other phase that looks cool to you. Each game has simple controls and helpful tips to get you started!"
+    "howToPlay": {
+      "question": "How do I start playing Sprunked?",
+      "answer": "It's super easy! Just drag and drop characters onto the music board. Each character makes different sounds, and you can move them around to create different tunes. Try placing characters close together to see how their sounds mix!"
     },
-    "phases": {
-      "question": "What's different about each Sprunki Phase?",
-      "answer": "Each Sprunki Phase is special! Phase 1-2 are great for beginners and music lovers. Phase 3-4 are more spooky and exciting. Phase 5-6 let you make awesome music. Phase 7-8 are perfect for party fun, and Phase 9-10 have the coolest adventures!"
+    "characters": {
+      "question": "What do the different characters do?",
+      "answer": "Each character in Sprunked has their own special sound or musical ability. Some make beats, others create melodies, and some have special effects. Try combining different characters to discover all the amazing sounds you can make!"
     },
-    "gameplay": {
-      "question": "How do the games work?",
-      "answer": "Playing Sprunki Phase games is easy and fun! Just use your mouse to click and drag things around, and your keyboard for special moves. Each game has its own cool features to discover, and you can play at your own pace. Don't worry about making mistakes - that's part of the fun!"
+    "musicCreation": {
+      "question": "Do I need music experience to play?",
+      "answer": "Not at all! Sprunked is designed to be fun and easy for everyone. The game helps you create great-sounding music even if you've never made music before. Just experiment and have fun!"
     },
-    "multiplayer": {
-      "question": "Can I play with friends?",
-      "answer": "Yes! Many Sprunki Phase games are more fun with friends! You can team up, share your creations, and help each other discover new things. Join our community to meet other players and share cool tips!"
+    "sprunked2": {
+      "question": "What's different in Sprunked 2.0?",
+      "answer": "Sprunked 2.0 adds an exciting twist to music creation with spooky elements and new challenges! Create music while exploring mysterious environments, unlock new characters, and discover special sound effects in this thrilling version."
     },
-    "progress": {
-      "question": "How do I get better at Sprunki Phase games?",
-      "answer": "Just keep playing and having fun! Try different things, explore each game, and don't be afraid to experiment. You can also check out our tips section, watch what other players do, and join our community for helpful advice!"
+    "sharing": {
+      "question": "Can I share my music with friends?",
+      "answer": "Absolutely! You can save your musical creations and share them with friends. Join our community to discover what others are making and share your own musical masterpieces!"
     },
-    "help": {
-      "question": "Where can I get help if I'm stuck?",
-      "answer": "We're here to help! You can check our game tips, ask other players in our community, or contact our friendly support team. Remember, every Sprunki Phase player was new once, so don't be shy about asking questions!"
+    "support": {
+      "question": "Need help with the game?",
+      "answer": "We're here to help! Check out our game tips section for helpful advice, or reach out to our support team if you need more assistance. We want everyone to have a great time making music in Sprunked!"
     },
-    "needHelp": "Still have questions about Sprunki Phase?",
-    "contactSupport": "Ask our friendly team!"
+    "needHelp": "Still have questions?",
+    "contactSupport": "Contact our support team"
   },
   "testimonials": {
-    "title": "What Players Love About Sprunki Phase",
-    "subtitle": "Hear from our awesome players! They're having a blast with different Sprunki Phase games. Check out their fun stories!",
-    "player1": {
-      "content": "Sprunki Phase is amazing! I started with Phase 1 and now I've played them all. Each game is different and super fun. My kids love playing too - it's perfect for the whole family!",
-      "name": "Alex R.",
-      "location": "Game Explorer"
+    "title": "What Players Say About Sprunked",
+    "subtitle": "Join thousands of happy players creating amazing music with Sprunked!",
+    "musician": {
+      "content": "As a music teacher, I love how Sprunked makes music creation accessible and fun! My students are always excited to experiment with different character combinations.",
+      "name": "Sarah Johnson",
+      "role": "Professional Musician"
     },
-    "player2": {
-      "content": "I love how every Sprunki Phase game has its own style! Phase 3 is spooky fun, Phase 5 lets me make music, and Phase 7 is great for parties. There's always something new to try!",
-      "name": "Sarah M.",
-      "location": "Music Maker"
+    "parent": {
+      "content": "Sprunked has been amazing for my kids! They're learning about music while having fun. The character-based approach makes it so engaging.",
+      "name": "Michael Chen",
+      "role": "Parent of Two"
     },
-    "player3": {
-      "content": "The music creation in Sprunki Phase games is so cool! I've made tons of awesome tunes, and sharing them with other players is super fun. It's like being a DJ and game player at once!",
-      "name": "Marcus D.",
-      "location": "Beat Master"
+    "teacher": {
+      "content": "I use Sprunked in my classroom to teach music concepts. The visual approach helps students understand rhythm and melody in a whole new way!",
+      "name": "Emma Rodriguez",
+      "role": "Music Educator"
     },
-    "player4": {
-      "content": "Playing Sprunki Phase with friends is the best! We love trying different phases together and helping each other discover new things. The community is so friendly and fun!",
-      "name": "Luna K.",
-      "location": "Team Player"
+    "gamer": {
+      "content": "Sprunked 2.0 is incredible! The spooky elements add such an exciting twist to music creation. I can't stop playing and discovering new sound combinations!",
+      "name": "Alex Kim",
+      "role": "Gaming Enthusiast"
     },
-    "player5": {
-      "content": "Each time I play a different Sprunki Phase game, I find something new! The games are easy to learn but have lots of cool secrets to find. I can't pick a favorite - they're all great!",
-      "name": "Viktor N.",
-      "location": "Adventure Seeker"
+    "artist": {
+      "content": "The creativity in Sprunked is endless! I love how each character brings something unique to the music. It's like painting with sounds!",
+      "name": "Lisa Thompson",
+      "role": "Digital Artist"
     },
-    "player6": {
-      "content": "Sprunki Phase games are perfect when I want to relax and have fun. Sometimes I make music, sometimes I go on adventures. It's like having 10 different games in one series!",
-      "name": "Yuki T.",
-      "location": "Creative Player"
+    "student": {
+      "content": "I never thought making music could be this fun! Sprunked makes it easy to create awesome tunes, even for beginners like me.",
+      "name": "David Martinez",
+      "role": "Music Student"
     }
   },
   "gameGuide": {
-    "title": "Your Guide to Sprunki Phase Games",
-    "description": "Ready to become a Sprunki Phase master? Here's everything you need to know about playing and enjoying all the games in the series!",
+    "title": "Complete Guide to Sprunked",
+    "description": "Master the art of musical creation with our comprehensive guide to Sprunked and Sprunked 2.0!",
     "basics": {
       "title": "Getting Started",
-      "description": "New to Sprunki Phase? Here are the basics to help you start your adventure!",
+      "description": "Learn the fundamental controls and concepts of Sprunked.",
       "tips": [
-        "Pick any Sprunki Phase game you like - they're all fun!",
-        "Use your mouse to click and drag things around",
-        "Try the tutorial in each game first",
-        "Take your time and have fun exploring"
+        "Click and drag characters onto the music board to start creating",
+        "Each character makes unique sounds when placed",
+        "Use the play button to hear your creation",
+        "Save your work regularly to keep your masterpieces"
       ]
     },
-    "music": {
-      "title": "Making Music",
-      "description": "Learn how to create awesome tunes in the music-focused Sprunki Phase games!",
+    "characters": {
+      "title": "Understanding Characters",
+      "description": "Discover how different characters create unique sounds and effects.",
       "tips": [
-        "Mix different sounds to create cool beats",
-        "Try combining different music styles",
-        "Save your favorite music creations",
-        "Share your tunes with other players"
+        "Melody characters create the main tune",
+        "Beat characters provide rhythm and percussion",
+        "Effect characters add special sounds and transitions",
+        "Try combining different character types for richer music"
       ]
     },
-    "adventure": {
-      "title": "Fun Adventures",
-      "description": "Discover exciting adventures in different Sprunki Phase worlds!",
+    "composition": {
+      "title": "Music Composition",
+      "description": "Learn how to create amazing tunes in Sprunked.",
       "tips": [
-        "Explore every corner of each game world",
-        "Look for hidden surprises and secrets",
-        "Try different paths and choices",
-        "Complete fun challenges to unlock new stuff"
+        "Start with a simple beat using rhythm characters",
+        "Add melody characters to create the main tune",
+        "Layer different sounds to build complexity",
+        "Use the grid system to keep your music in time"
       ]
     },
-    "multiplayer": {
-      "title": "Playing with Friends",
-      "description": "Make your Sprunki Phase experience more fun by playing with others!",
+    "effects": {
+      "title": "Special Effects",
+      "description": "Enhance your music with special effects and combinations.",
       "tips": [
-        "Invite friends to join your game",
-        "Work together to solve puzzles",
-        "Share tips and tricks with others",
-        "Join community events and challenges"
+        "Combine specific characters for unique sound effects",
+        "Use the effect slider to modify sound intensity",
+        "Try different character spacing for varied effects",
+        "Experiment with tempo changes for dynamic music"
       ]
     },
-    "special": {
-      "title": "Cool Features",
-      "description": "Discover special features that make each Sprunki Phase game unique!",
+    "sprunked2": {
+      "title": "Sprunked 2.0 Guide",
+      "description": "Navigate the spooky world of Sprunked 2.0.",
       "tips": [
-        "Try out different character abilities",
-        "Unlock special game modes",
-        "Find Easter eggs in each game",
-        "Experiment with different combinations"
+        "Watch out for special events in dark areas",
+        "Use sound effects to interact with the environment",
+        "Discover hidden characters in mysterious locations",
+        "Complete challenges to unlock new musical features"
       ]
     },
     "advanced": {
-      "title": "Pro Tips",
-      "description": "Ready for more challenges? Here are some advanced tips for Sprunki Phase pros!",
+      "title": "Advanced Techniques",
+      "description": "Take your music creation to the next level.",
       "tips": [
-        "Master the special moves in each game",
-        "Learn advanced music mixing techniques",
-        "Discover secret game combinations",
-        "Challenge yourself with harder modes"
+        "Use keyboard shortcuts for faster composition",
+        "Create complex patterns with character combinations",
+        "Master the timing system for perfect rhythms",
+        "Experiment with cross-character effects"
       ]
-    },
-    "help": {
-      "title": "Getting Help",
-      "description": "Need some help? We've got your back!",
-      "tips": [
-        "Check out our helpful game guides",
-        "Ask questions in our friendly community",
-        "Watch tutorial videos for tips",
-        "Contact our support team for help"
-      ]
-    }
-  },
-  "gameControls": {
-    "title": "How to Play sprunki phase 3",
-    "basicControls": {
-      "title": "Game Controls",
-      "controls": [
-        {
-          "action": "Place Blocks",
-          "key": "Drag and drop blocks onto the grid"
-        },
-        {
-          "action": "Clear Lines",
-          "key": "Fill a complete row or column to clear it"
-        },
-        {
-          "action": "Score Points",
-          "key": "Clear multiple lines at once for bonus points"
-        },
-        {
-          "action": "Game Over",
-          "key": "When there's no space left for new blocks"
-        }
-      ]
-    },
-    "gameplayTips": {
-      "title": "Quick Tips",
-      "tips": [
-        "Try to fill complete rows or columns to clear them",
-        "Plan ahead to make space for new blocks",
-        "Look for opportunities to clear multiple lines at once",
-        "Keep the board clear to avoid running out of space"
-      ]
-    },
-    "updates": {
-      "title": "Latest Updates",
-      "content": [
-        "New block patterns added",
-        "Improved scoring system",
-        "Smoother block placement",
-        "Enhanced visual effects"
-      ]
-    }
-  },
-  "footer": {
-    "description": "sprunki phase 3",
-    "product": "Product",
-    "features": "Features",
-    "partner": "Partners",
-    "followUs": "Follow Us",
-    "copyright": "© {{year}} sprunkiphase3.online. All rights reserved.",
-    "terms": "Terms of Service",
-    "privacy": "Privacy Policy",
-    "socialLinks": {
-      "tiktok": "Follow us on TikTok",
-      "twitter": "Follow us on Twitter",
-      "discord": "Join our Discord",
-      "youtube": "Subscribe on YouTube",
-      "instagram": "Follow us on Instagram",
-      "facebook": "Like us on Facebook",
-      "reddit": "Join our Reddit"
-    },
-    "credits": {
-      "poweredBy": "Powered by",
-      "createdBy": "Created by",
-      "cloudflare": "Cloudflare",
-      "developer": "sprunki phase 3 Team"
-    },
-    "navigation": {
-      "about": "About",
-      "contact": "Contact",
-      "media": "Media Coverage",
-      "blog": "Blog"
     },
     "community": {
-      "title": "Community",
-      "discord": "Join Discord",
-      "forum": "Community Forum",
-      "feedback": "Send Feedback"
-    }
-  },"blockBlastSolver": {
-    "title": "sprunki phase 3 Solver Instructions",
-    "description": "This is a tool to help you find the optimal solution in sprunki phase 3 game. Follow these steps:",
-    "steps": {
-      "step1": "Click or drag mouse to set initial blocks on the main board (shown in green)",
-      "step2": "Design your Figure shapes in the three small grids below (distinguished by red, yellow, and blue)",
-      "step3": "Click \"Calculate Optimal Solution\" to see placement suggestions"
-    },
-    "gameRules": {
-      "title": "Game Rules Tips:",
-      "rules": [
-        "When 8 cells in the same row or column are filled, they will be automatically cleared",
-        "After clearing, other blocks remain in place (no gravity effect)",
-        "Three Figures can be placed in any order"
-      ]
-    },
-    "interactions": {
-      "clickOrDrag": "Click or drag to set initial blocks",
-      "designFigures": "Design your Figure shapes",
-      "noValidPlacement": "Current layout cannot place any Figure, please try another layout",
-      "continueDesigning": "You can continue designing new Figures for the next round",
-      "newGame": "New Game",
-      "calculate": "Calculate Optimal Solution",
-      "continue": "Continue Calculation"
-    },
-    "solution": {
-      "steps": "Placement Steps",
-      "step": "Step",
-      "clearRows": "Clear {{count}} row(s)",
-      "clearCols": "Clear {{count}} column(s)"
-    }
-  },
-  "introduction": {
-    "title": "Welcome to Sprunki Phase Games!",
-    "description": "Hey there! Ready to jump into the amazing world of Sprunki Phase? It's a super cool series of games where every phase brings new adventures! From making music to solving puzzles, there's something fun for everyone. Let's explore all 10 phases together and see what makes each one special!",
-    "highlights": [
-      "Start with Phase 1's fun music maker",
-      "Get spooky in Phase 3's scary world",
-      "Mix beats in Phase 5's cool studio",
-      "Make friends in Phase 7's party zone",
-      "Create awesome tunes in Phase 9",
-      "Master all 10 Sprunki Phases!"
-    ],
-    "phases": {
-      "title": "Your Sprunki Phase Journey",
-      "description": "Each Sprunki Phase is like a new chapter in an awesome story. Start anywhere you want - every phase has its own cool stuff to try!",
-      "list": [
-        {
-          "phase": "Phase 1-2",
-          "title": "The Beginning",
-          "description": "Where the fun starts! Make music and meet new friends."
-        },
-        {
-          "phase": "Phase 3-4",
-          "title": "The Spooky Adventure",
-          "description": "Get ready for some scary but fun times!"
-        },
-        {
-          "phase": "Phase 5-6",
-          "title": "The Music Studio",
-          "description": "Create awesome beats and share them with friends."
-        },
-        {
-          "phase": "Phase 7-8",
-          "title": "The Party Time",
-          "description": "Join the biggest Sprunki party ever!"
-        },
-        {
-          "phase": "Phase 9-10",
-          "title": "The Grand Finale",
-          "description": "Experience the most amazing Sprunki adventures yet!"
-        }
+      "title": "Community Features",
+      "description": "Connect and share with other Sprunked players.",
+      "tips": [
+        "Share your creations with the community",
+        "Follow other creators for inspiration",
+        "Join music creation challenges",
+        "Collaborate with other players on compositions"
       ]
     }
   },
-  "game": {
-    "clickToPlay": "Click to Start Playing",
-    "playNow": "Play Now"
+  "header": {
+    "headerh2": "Sprunked",
+    "home": "Home",
+    "blog": "Blog",
+    "selectLanguage": "Select Language"
+  },
+  "footer": {
+    "description": "Sprunked is a creative music game where you can make amazing tunes using interactive characters. Join our community and start your musical journey today!",
+    "product": "Product",
+    "features": "Features",
+    "mediaCoverage": "Media Coverage",
+    "partner": "Partners",
+    "followUs": "Follow Us",
+    "social": {
+      "twitter": "Twitter",
+      "discord": "Discord",
+      "youtube": "YouTube"
+    },
+    "copyright": "© {year} Sprunked. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "credits": {
+      "poweredBy": "Powered by",
+      "createdBy": "Created by"
+    }
   }
 }
