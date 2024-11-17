@@ -49,6 +49,66 @@ const Home: NextPage = () => {
         />
 
         {/* Structured data remains the same */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "VideoGame",
+              "name": "Sprunked",
+              "description": "An interactive music creation game where players use animated characters to compose unique musical pieces. Features both classic mode and the thrilling Sprunked 2.0 version.",
+              "genre": ["Music", "Casual", "Educational"],
+              "gamePlatform": "Web Browser",
+              "applicationCategory": "Game",
+              "operatingSystem": "Any",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "USD",
+                "availability": "https://schema.org/InStock"
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "ratingCount": "1250",
+                "bestRating": "5",
+                "worstRating": "1"
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "Sprunked Team"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Sprunked",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://sprunked.com/logo.png"
+                }
+              },
+              "image": "https://cdn.sprunked.cloud/1092260342_480x360.webp",
+              "url": "https://sprunked.com",
+              "playMode": "SinglePlayer",
+              "gameItem": [
+                {
+                  "@type": "Thing",
+                  "name": "Musical Characters",
+                  "description": "Interactive characters that produce unique sounds and musical effects"
+                },
+                {
+                  "@type": "Thing",
+                  "name": "Sound Board",
+                  "description": "Virtual music creation space where players arrange characters"
+                }
+              ],
+              "about": {
+                "@type": "Thing",
+                "name": "Music Creation",
+                "description": "Create original music through interactive gameplay and character combinations"
+              }
+            })
+          }}
+        />
       </Head>
 
       <div className='flex max-w-7xl mx-auto flex-col items-center justify-center py-2 px-4 sm:px-6'>
