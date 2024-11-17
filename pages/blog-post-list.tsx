@@ -17,31 +17,37 @@ const BlogListPage: NextPage<BlogListPageProps> = ({ posts }) => {
   const { t } = useTranslation('common');
   const router = useRouter();
   const { locale, locales, defaultLocale } = router;
-  const canonicalUrl = `https://sprunkiphase.club${locale === defaultLocale ? '' : `/${locale}`}/blog-post-list`;
+  const canonicalUrl = `https://sprunked.com${locale === defaultLocale ? '' : `/${locale}`}/blog-post-list`;
 
   return (
-    <div className='flex flex-col min-h-screen'>
+    <div className='min-h-screen bg-gradient-to-b from-background-main to-background-light text-text-primary'>
       <Head>
-        <title>Blog Post List - sprunked </title>
-        <meta name='description' content="sprunked  blog post list." />
+        <title>Blog - Sprunked</title>
+        <meta name='description' content="Latest news and updates about Sprunked music creation game." />
         <link rel="canonical" href={canonicalUrl} />
         {locales?.map((l) => (
           <link
             key={l}
             rel="alternate"
             hrefLang={l}
-            href={`https://sprunkiphase.club${l === defaultLocale ? '' : `/${l}`}/blog-post-list`}
+            href={`https://sprunked.com${l === defaultLocale ? '' : `/${l}`}/blog-post-list`}
           />
         ))}
-        <link rel="alternate" hrefLang="x-default" href="https://sprunkiphase.club/blog-post-list" />
+        <link rel="alternate" hrefLang="x-default" href="https://sprunked.com/blog-post-list" />
       </Head>
 
       <Header />
 
       <main className='flex-grow'>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <h1 className="text-3xl font-bold text-center mb-8">sprunked  Blog Post List</h1>
-          <p className="text-xl text-center text-gray-600 mb-12">All you need know about sprunked </p>
+          <div className="text-center mb-12">
+            <h1 className="text-4xl font-bold text-text-primary mb-4">
+              Sprunked Blog
+            </h1>
+            <p className="text-xl text-text-secondary">
+              Latest news, updates, and guides about Sprunked
+            </p>
+          </div>
           <BlogPostList posts={posts} />
         </div>
       </main>
@@ -55,8 +61,7 @@ export const getServerSideProps: GetServerSideProps<BlogListPageProps> = async (
   const wisp = await getWispClient();
 
   try {
-    const postsResult = await wisp.getPosts({ limit: 20 }); // Adjust the limit as needed
-
+    const postsResult = await wisp.getPosts({ limit: 20 });
     return {
       props: {
         ...(await serverSideTranslations(locale || 'en', ['common'])),

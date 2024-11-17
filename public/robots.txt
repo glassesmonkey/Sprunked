@@ -11,8 +11,8 @@ User-agent: ClaudeBot
 Disallow: /
 
 # Host
-Host: https://sprunkiphase.club
+Host: https://sprunked.cloud
 
 # Sitemaps
-Sitemap: https://sprunkiphase.club/sitemap.xml
-Sitemap: https://sprunkiphase.club/server-sitemap.xml
+Sitemap: https://sprunked.cloud/sitemap.xml
+Sitemap: https://sprunked.cloud/server-sitemap.xml

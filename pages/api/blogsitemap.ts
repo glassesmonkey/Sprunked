@@ -25,14 +25,14 @@ interface Post {
     return `<?xml version="1.0" encoding="UTF-8"?>
      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
        <url>
-         <loc>https://sprunkiphase.club</loc>
+         <loc>https://sprunked.cloud</loc>
        </url>
 
        ${posts
          .map(({ slug }) => {
            return `
          <url>
-             <loc>${`https://sprunkiphase.club/blog/${slug}`}</loc>
+             <loc>${`https://sprunked.cloud/blog/${slug}`}</loc>
          </url>
        `
          })

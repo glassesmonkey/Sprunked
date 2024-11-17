@@ -35,7 +35,7 @@ const FeaturesSection = () => {
         </div>
         <div className="flex justify-center items-center order-1 lg:order-2 lg:w-1/2">
           <img
-            src="https://cdn.sprunkiphase3.online/sprunked-features.webp"
+            src="https://cdn.sprunked.cloud/1092260342_480x360.webp"
             alt={t('features.mainImage.alt')}
             className="h-auto w-full max-w-md object-contain rounded-xl 
                      hover:shadow-[0_0_30px_rgba(147,51,234,0.3)] 

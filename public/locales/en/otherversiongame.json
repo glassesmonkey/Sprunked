@@ -3,93 +3,21 @@
   "description": "Explore All sprunked Games",
   "versions": [
     {
-      "id": "phase1",
-      "title": "sprunked 1",
+      "id": "phase",
+      "title": "ALL sprunki phase",
       "image": "https://cdn.sprunkiphase3.online/phase1.jfif",
       "description": "Start your journey here! Make simple tunes and learn the basics of music creation in this fun, beginner-friendly game.",
       "gradient": "from-blue-400 to-purple-500",
-      "url": "/",
-      "isExternal": false
-    },
-    {
-      "id": "phase2",
-      "title": "sprunked 2",
-      "image": "https://cdn.sprunkiphase3.online/phase2.jfif",
-      "description": "Level up your music skills! Mix beats and create catchy tunes with new sounds and cool effects.",
-      "gradient": "from-green-400 to-blue-500",
-      "url": "/other-version-games/sprunkiphase2",
-      "isExternal": false
+      "url": "http://sprunkiphase.club/",
+      "isExternal": true
     },
     {
       "id": "phase3",
-      "title": "sprunked 3",
-      "image": "https://cdn.sprunkiphase3.online/phase3.jfif",
-      "description": "Enter the spooky world! Experience thrilling adventures with scary sounds and mysterious transformations.",
-      "gradient": "from-purple-500 to-red-500",
-      "url": "/other-version-games/sprunkiphase3",
-      "isExternal": false
-    },
-    {
-      "id": "phase4",
-      "title": "sprunked 4",
-      "image": "https://cdn.sprunkiphase3.online/phase4.jfif",
-      "description": "Feel the rhythm! Jump and move to the beat in this exciting music-adventure combo game.",
-      "gradient": "from-pink-500 to-yellow-500",
-      "url": "/other-version-games/sprunkiphase4",
-      "isExternal": false
-    },
-    {
-      "id": "phase5",
-      "title": "sprunked 5",
-      "image": "https://cdn.sprunkiphase3.online/phase5.jfif",
-      "description": "Become a music master! Create amazing songs with tons of new sounds and share them with friends.",
-      "gradient": "from-indigo-500 to-purple-500",
-      "url": "/other-version-games/sprunkiphase5",
-      "isExternal": false
-    },
-    {
-      "id": "phase6",
-      "title": "sprunked 6",
-      "image": "https://cdn.sprunkiphase3.online/phase6.jfif",
-      "description": "Mix different music styles! Try new genres and create your own unique sound combinations.",
-      "gradient": "from-yellow-400 to-orange-500",
-      "url": "/other-version-games/sprunkiphase6",
-      "isExternal": false
-    },
-    {
-      "id": "phase7",
-      "title": "sprunked 7",
-      "image": "https://cdn.sprunkiphase3.online/phase7.jfif",
-      "description": "Join the party! Make music with friends and enjoy fun multiplayer challenges together.",
-      "gradient": "from-teal-400 to-blue-500",
-      "url": "/other-version-games/sprunkiphase7",
-      "isExternal": false
-    },
-    {
-      "id": "phase8",
-      "title": "sprunked 8",
-      "image": "https://cdn.sprunkiphase3.online/phase8.jfif",
-      "description": "Music on the go! Create awesome beats anywhere with this mobile-friendly music maker.",
-      "gradient": "from-cyan-500 to-blue-500",
-      "url": "/other-version-games/sprunkiphase8",
-      "isExternal": false
-    },
-    {
-      "id": "phase9",
-      "title": "sprunked 9",
-      "image": "https://cdn.sprunkiphase3.online/phase9.jfif",
-      "description": "Music meets adventure! Jump, run, and make music in this exciting rhythm-based platform game.",
-      "gradient": "from-purple-600 to-pink-500",
-      "url": "/other-version-games/sprunkiphase9",
-      "isExternal": false
-    },
-    {
-      "id": "phase10",
-      "title": "sprunked 10",
-      "image": "https://cdn.sprunkiphase3.online/phase10.jfif",
-      "description": "The ultimate Sprunki experience! Combine everything you've learned to create amazing musical masterpieces.",
-      "gradient": "from-emerald-500 to-teal-500",
-      "url": "/other-version-games/sprunkiphase10",
+      "title": "sprunki phase 3",
+      "image": "https://cdn.sprunkiphase3.online/phase2.jfif",
+      "description": "Level up your music skills! Mix beats and create catchy tunes with new sounds and cool effects.",
+      "gradient": "from-green-400 to-blue-500",
+      "url": "https://sprunkiphase3.online/",
       "isExternal": false
     }
   ]

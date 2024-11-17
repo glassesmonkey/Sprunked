@@ -64,36 +64,36 @@ const Home: NextPage = () => {
                            hover:shadow-[0_0_30px_rgba(147,51,234,0.5)]'>
               {!showIframe ? (
                 <div 
-                  className="absolute inset-0 flex flex-col items-center justify-center"
+                  className="absolute inset-0 flex flex-col items-center justify-center cursor-pointer"
+                  onClick={() => setShowIframe(true)}
                   style={{
-                    backgroundImage: 'url(https://cdn.sprunked.com/game-preview.webp)',
+                    backgroundImage: 'url(https://cdn.sprunked.cloud/1092260342_480x360.webp)',
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                     backgroundRepeat: 'no-repeat'
                   }}
                 >
-                  <div className="backdrop-blur-md bg-background-main/80 p-8 rounded-2xl text-center 
+                  <div className="backdrop-blur-md bg-background-main/22 p-8 rounded-2xl text-center 
                                  transform hover:scale-105 transition-all duration-300
                                  border border-primary-light/20">
                     <h2 className="text-text-primary text-2xl sm:text-3xl font-bold mb-6">
                       {t('game.clickToPlay')}
                     </h2>
-                    <button
-                      onClick={() => setShowIframe(true)}
+                    <div
                       className="px-8 py-4 bg-primary-main text-text-primary rounded-xl 
                                hover:bg-primary-light transform hover:-translate-y-1 
                                transition-all duration-300 shadow-lg
                                hover:shadow-[0_0_20px_rgba(147,51,234,0.4)]"
                     >
                       {t('game.playNow')}
-                    </button>
+                    </div>
                   </div>
                 </div>
               ) : (
                 <>
                   <iframe
                     ref={iframeRef}
-                    src="https://play.sprunked.com/game"
+                    src="https://cdn.sprunked.cloud/Sprunked%20(Unofficial%20Scratch%20Version).html"
                     width="100%"
                     height="100%"
                     frameBorder="0"

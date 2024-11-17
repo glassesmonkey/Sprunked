@@ -2,7 +2,7 @@ import { writeFileSync } from "fs";
 import { globby } from "globby";
 import prettier from "prettier";
 
-const BASE_URL = "https://sprunkiphase.club";
+const BASE_URL = "https://sprunked.cloud";
 
 const DOMAIN_CONFIG = {
   ja: BASE_URL,
