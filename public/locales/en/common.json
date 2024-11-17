@@ -257,5 +257,41 @@
       "poweredBy": "Powered by",
       "createdBy": "Created by"
     }
+  },
+  "comparison": {
+    "title": "Sprunked vs Other Versions",
+    "description": "See how Sprunked compares to other versions and why players love our unique experience",
+    "versions": {
+      "original": {
+        "title": "Original Sprunked",
+        "features": [
+          "Classic music creation gameplay",
+          "Family-friendly interface",
+          "Basic character interactions",
+          "Simple sound mixing",
+          "Perfect for beginners"
+        ]
+      },
+      "sprunked2": {
+        "title": "Sprunked 2.0",
+        "features": [
+          "Enhanced horror elements",
+          "Advanced sound effects",
+          "Complex character interactions",
+          "Mysterious environments",
+          "Challenge-based gameplay"
+        ]
+      },
+      "scratch": {
+        "title": "Scratch Version",
+        "features": [
+          "Community-made adaptation",
+          "Basic functionality",
+          "Limited features",
+          "Educational focus",
+          "Open-source code"
+        ]
+      }
+    }
   }
 }

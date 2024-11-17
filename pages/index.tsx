@@ -17,6 +17,7 @@ import FAQSection from '../components/FAQSection';
 import GameGuide from '../components/GameGuide';
 import IntroductionGame from '../components/IntroductionGame';
 import OtherVersionGames from '../components/OtherVersionGames';
+import VersionComparison from '../components/VersionComparison';
 
 const Home: NextPage = () => {
   const { t } = useTranslation('common');
@@ -191,6 +192,7 @@ const Home: NextPage = () => {
         </div>
 
         <IntroductionGame />
+        
 
         {/* Main content sections */}
         <div className="w-full space-y-12 sm:space-y-16 mt-8 sm:mt-12">
@@ -201,6 +203,7 @@ const Home: NextPage = () => {
             </div>
             
             <FeaturesSection />
+            <VersionComparison />
             <HowItWorksSection />
             <GameTips />
             <FAQSection />
