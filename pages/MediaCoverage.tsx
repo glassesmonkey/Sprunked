@@ -7,6 +7,11 @@ const MediaCoverage: NextPage = () => {
   const coverageLinks = [
  { title: "v2ex", url: "https://www.v2ex.com/t/1090258" },
  { title: "hacker news", url: "https://news.ycombinator.com/item?id=42162345" },
+ { title: "cnblogs", url: "https://www.cnbian.com/topic/19801-%E4%B8%80%E4%B8%AA%E6%B5%B7%E5%A4%96%E5%BE%88%E7%81%AB%E7%9A%84%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F/" },
+ { title: "osu", url: "https://u.osu.edu/meutilab/2024/01/29/new-paper-2/#comment-136" },
+ { title: "garmin", url: "https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/391568/export-from-fitbit-using-google-take-out-and-import-to-garmin/1859521#1859521" },
+ { title: "usc", url: "https://scalar.usc.edu/works/eng-283e-our-premodern-epics/a-game" },
+ { title: "osu", url: "https://blogs.oregonstate.edu/motorpool/2012/03/08/the-other-osu-fleet/#comment-149754" },
 ];
 
   
