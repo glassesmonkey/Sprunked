@@ -5,11 +5,8 @@ import Footer from '../components/Footer';
 
 const MediaCoverage: NextPage = () => {
   const coverageLinks = [
-
-
-
- { title: "csdn", url: "https://blog.csdn.net/a58220655/article/details/143534309" },
- { title: "2048-cupcakes", url: "https://2048-cupcakes.online/" },
+ { title: "v2ex", url: "https://www.v2ex.com/t/1090258" },
+ { title: "hacker news", url: "https://news.ycombinator.com/item?id=42162345" },
 ];
 
   
